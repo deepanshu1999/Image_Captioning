@@ -13,7 +13,9 @@ Deep Learning model for generating captions for a given image.
 ## Results
 ![](https://raw.githubusercontent.com/deepanshu1999/Image_Captioning/master/res1.png)
 Greedy: A group of men dancing in front of a crowd
+
 ![](https://raw.githubusercontent.com/deepanshu1999/Image_Captioning/master/re2.png)
 Greedy: A dog is running through the grass
+
 ![](https://raw.githubusercontent.com/deepanshu1999/Image_Captioning/master/res3.png)
 Greedy: A group of people is walking on the street
